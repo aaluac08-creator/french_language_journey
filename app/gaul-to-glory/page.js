@@ -148,7 +148,7 @@ const GaulToGloryPage = () => {
           <div className="mt-16 text-center">
             <FadeIn duration={1} delay={0.5}>
               <Image
-                src="/images/gaul_map.jpg"
+                src="/images/Gaul_map.jpg"
                 alt="Carte des régions de la Gaule"
                   width={300}
                   height={188}
