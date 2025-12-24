@@ -150,9 +150,10 @@ const GaulToGloryPage = () => {
               <Image
                 src="/images/Gaul_map.jpg"
                 alt="Carte des régions de la Gaule"
-                  width={300}
-                  height={188}
-                  className="w-full max-w-2xl mx-auto rounded-lg shadow-lg"
+                width={300}
+                height={188}
+                className="w-full max-w-2xl mx-auto rounded-lg shadow-lg"
+                unoptimized
               />
             </FadeIn>
           </div>
