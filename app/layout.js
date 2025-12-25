@@ -2,6 +2,7 @@ import './globals.css';
 import { Inter, Playfair_Display } from 'next/font/google';
 import { Providers } from './providers';
 import SkipNavLink from '@/components/SkipNavLink';
+import { Analytics } from '@vercel/analytics/react';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -86,6 +87,7 @@ export default function RootLayout({ children }) {
           <main id="main-content" tabIndex="-1" className="outline-none pt-16">
             {children}
           </main>
+          <Analytics />
         </Providers>
         <script
           dangerouslySetInnerHTML={{
