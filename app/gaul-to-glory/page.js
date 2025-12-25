@@ -144,12 +144,6 @@ const GaulToGloryPage = () => {
               </Card>
             </FadeIn>
           </div>
-          
-          <div className="mt-16 text-center">
-            <FadeIn duration={1} delay={0.5}>
-              <p className="text-muted">Carte des régions de la Gaule</p>
-            </FadeIn>
-          </div>
         </div>
       </section>
       
