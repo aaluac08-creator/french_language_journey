@@ -80,7 +80,7 @@ export default function RootLayout({ children }) {
         <link rel="apple-touch-icon" href="/images/favicon.ico" />
         <meta name="theme-color" content="#8B5CF6" />
       </head>
-      <body className="bg-background text-text font-body">
+      <body className="bg-background text-text font-body bg-gradient-to-br from-surface to-background">
         <Providers>
           <SkipNavLink />
           <main id="main-content" tabIndex="-1" className="outline-none pt-16">
