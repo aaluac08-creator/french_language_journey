@@ -47,7 +47,7 @@ const GallicGhostsPage = () => {
 
               <h1 className="text-4xl md:text-6xl font-bold font-display mb-6 text-secondary">
 
-                Les FantÃ´mes du Gaulois
+                Les Fantômes du Gaulois
 
               </h1>
 
@@ -59,7 +59,7 @@ const GallicGhostsPage = () => {
 
               <p className="text-xl md:text-2xl mb-8 text-text">
 
-                Le gaulois a peut-Ãªtre disparu, mais il a laissé ses traces partout dans le français moderne.
+                Le gaulois a peut-être disparu, mais il a laissé ses traces partout dans le français moderne.
 
               </p>
 
@@ -163,7 +163,7 @@ const GallicGhostsPage = () => {
 
                   <span className="text-secondary mr-3">•</span>
 
-                  <span className="text-lg"><strong className="text-primary">ruche</strong> - oÃ¹ les abeilles gauloises faisaient leur miel</span>
+                  <span className="text-lg"><strong className="text-primary">ruche</strong> - où les abeilles gauloises faisaient leur miel</span>
 
                 </li>
 
@@ -179,7 +179,7 @@ const GallicGhostsPage = () => {
 
                   <span className="text-accent mr-3">•</span>
 
-                  <span className="text-lg"><strong className="text-primary">cheval</strong> - si utile que mÃªme les Romains l'ont adopté</span>
+                  <span className="text-lg"><strong className="text-primary">cheval</strong> - si utile que même les Romains l'ont adopté</span>
 
                 </li>
 
