@@ -1,6 +1,13 @@
+/* CSS Reset */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Ensure CSS is processed */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
 :root {
   --primary: #8B5CF6;
